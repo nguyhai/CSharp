@@ -11,9 +11,8 @@ namespace FrequencyDistribution
         static void Main(string[] args)
         {
             // Testing
-            //Testing another commit
 
-            
+            Console.WriteLine("Hello World!");
         }
     }
 }
